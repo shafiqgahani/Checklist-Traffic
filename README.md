@@ -1,3 +1,6 @@
+add link ni dalam ReadMe GitHub supaya org boleh akses & tengok :
+https://ai.studio/apps/07f5fee9-36c9-4baa-b17a-3999bf86b1f2
+
 # TV Broadcast Ops & Scheduling Suite
 
 A comprehensive production operations and playlist verification suite designed for television broadcasting networks (**TV3, 8TV, TV9, NTV7, and DS**). This repository contains two synchronized tools:
